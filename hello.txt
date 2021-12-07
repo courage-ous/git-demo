@@ -4,3 +4,4 @@ ni给韩寒merge test
 =======
 ni给韩寒 merge test 2
 >>>>>>> hot-fix
+嘿嘿嘿！
